@@ -7,7 +7,7 @@ namespace TreeViewTest
             InitializeComponent();
         }
 
-        //Handle clicks in the empty space ---
+        //Handle clicks in the empty space
         private void treeView_MouseDown(object sender, MouseEventArgs e)
         {
             //Get the node at the current mouse pointer coordinates
